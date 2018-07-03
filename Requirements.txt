@@ -1,0 +1,7 @@
+python==3
+conda==3.7.0
+pandas==0.23.1
+seaborn==0.8.1
+numpy==1.14.5
+
+data = https://www.kaggle.com/gilsousa/habermans-survival-data-set
